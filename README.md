@@ -1,16 +1,16 @@
 # Bayesian Analysis with Python (Third Edition)
 
 <p align="center">
-  <a href="https://www.amazon.com/Bayesian-Analysis-Python-Practical-probabilistic/dp/1805127160" target="_blank" rel="noopener noreferrer" style="border:none;text-decoration:none"><img src="https://www.niftybuttons.com/amazon/amazon-button2.png"></a></p>
+  <a href="https://packt.link/JrkVW" target="_blank" rel="noopener noreferrer" style="border:none;text-decoration:none"><img src="https://www.niftybuttons.com/amazon/amazon-button2.png"></a></p>
 
 <p align="center">
-  <img src="cover.png" width="400"/>
+  <a href="https://packt.link/JrkVW" target="_blank" rel="noopener noreferrer" style="border:none;text-decoration:none"><img src="cover.png" width="400"/>
 </p>
 
 This repository contains the code examples from the book
 
 ## See a mistake?
-If you see any issues please create an issue on [the issue tracker](https:/​/​github.​com/​aloctavodia/​BAP3/issues)
+If you see any issues please create an issue on [the issue tracker](https://github.com/aloctavodia/BAP3/issues)
 
 ## Environment installation
 To run the code you will need to install the correct packages in a computational environment.
@@ -24,7 +24,7 @@ conda activate bap3
 
 ### pip
 ```
-pip install pymc==5.8.0 arviz==0.16.1 bambi==0.13.0 pymc-bart==0.5.2 kulprit==0.0.1 preliz==0.3.6 nutpie==0.9.1
+pip install pymc==5.8.0 arviz==0.16.1 bambi==0.13.0 pymc-bart==0.5.2 kulprit==0.0.1 preliz[full,notebook]==0.3.6 nutpie==0.9.1
 ```
 
 ### Citation
